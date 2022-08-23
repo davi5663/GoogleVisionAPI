@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "boedekassen",
+  "private_key_id": "15fa196bc034cd6f783955b2bac2bd84f295fadc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDdaTeOBKJhZFKq\n7BKzCQIY32hrZirNvNut8Lf4E/wNA9opULAXQkS0yLtGEfeEOcqXxj3A8QnRkKqC\nBya67D+DDhCASdV2VyjyFfnw1nHSYi5vO+wbDf6gfYTivBOcWKIiJq6jiA2J/R7g\n3IOozhsOaXUKV/O6ut2tNfrKmRd6NIkEqpX0CRssuS2LAxT7yuyED22xRAZcVVgr\nO8AE4Gkp4nMOegcY9PtSIrJ138FmiYeGSz+0ZJBaTyklsvhh2A508vojKF0AojE/\ni0PNt/F5RrOjVqV5yePWYkTVzFG4yGhK5X4p4g3kXpEdcOKU/MfHhKGv2USLiCwF\neDhDIsUtAgMBAAECggEAHCu/fEvdpzufAw1PYcUzJZwDSqrwpkWxw8NdfOx6BOPp\nFZmlFgiB+miR31v43LOHseDwyYRBpg7civfC90SI3jFjaxc52DlFxeuC5iA60jRY\nySFcLKMOszfVOQ4KBroGQwcd8EOmyVhR3fVgsREsQxyq3hqLscYF33x/QNjSsmMR\nNMQUfJGkCEqwREbwlWuZc7wx6/Brx+XFP5oRm6jTQNHdu68+RF9i0y8Y55MYWMJE\n9RQvGdT6L6Z/Z4v7ZRxSX1/6UQ3xxYZaSjy+vYjeJYvDopoQ1YxArxvDzs87hhzH\n/gPSU5D8zo6cYpokiCPy6DMAjxF0mV8+dLLk6uD+wQKBgQDzUGP6FtuWKrMjyVAn\nZNR9MQc2tQBxdKImw5wRGNNg9bgYZ2xGb2PhfB7D4inlrGWJN3loXFnjpKFdMDhr\n70GazzNPrUpW67kNnZJ8fZHvSTXd4NnkgnWnQozk/0seQ2TroXgNIudQAkoraAcx\nOPIHbHJLFUEX+X3ZOyK9/5a+oQKBgQDo9HpkxDq3xiZhOYioOaQ0zEvf+YlT1wcc\nDmG0+n9tMK1ebV4JfzHcR0YLM0tEWFq97sCFM/c1rZlRRsdBu+UbruMHCcbJ2OrN\nf5XsEaNTBqsSMtyuT9JpFTGOfFmeAtGP4wsoQQprIJbg0B8xW8gZH3/Lbyrfn7EU\nuulIqHa3DQKBgQCdqP+/c8RB39VIYRABFsLhhD1qY4qv+aWAfMvKAE4ny9DIb2un\nkFImL+k3gHspibYZXcrbpsvQSEMPQUmuFtBp4c0b2ewLup6khe//ntZLOSMgbKyD\n900JXoQxdoNUTtM8I9rImE9Ods1cpwHSEVYzHUBKCrGtOUsk0b7HYrBpQQKBgQCq\nJV572OM2NPD1VCtfC3LG6WyFs2G9LbHQqSRuJgQKQWJvNJxZfWByjlA3gAh6a7oj\nPY25/KGTwC7aMUL53P3SwWKqUlayONAOtiBPYvaSfq1WRnXujviUrdkbQ/HEujRL\nzr3ocdDlO9FXdEtEJtA4oUwazyBWYvHYvUgEPJ8wxQKBgQDARRoYG0buQIhg91H1\n4mf+2S16k2QO9gneSE6sxc6ylV+dEKFrpow3WBLfBYMuy940ouuQSW1x5pFebZBE\nnv2IrEONG3/IcXIrSkkws2oQchuJIEQuHY4JNoGmAwaMyMtuPefzIuLnUCjs3TKh\nuekO7KSGbM9aKNDYWgqMFWfvBA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-vision@boedekassen.iam.gserviceaccount.com",
+  "client_id": "110576073767670123875",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-vision%40boedekassen.iam.gserviceaccount.com"
+}
